@@ -1,7 +1,7 @@
 import { default as styled } from 'react-emotion';
 
 export const CustomTaskListComponentStyles = styled('div')`
-  padding: 10px;
+  padding: 20px;
   margin: 0px;
   color: #fff;
   background: #000;
